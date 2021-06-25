@@ -18,11 +18,9 @@
         "https://*/*",
         "<all_urls>"
     ],
-   "content_scripts": [
-     //"js": ["js/startup.js"]
-         ],
+   
   "background": {
     "script": ["js/startup.js"]
-    //"persistent": false           //we dont want to keep background page always open
+    "persistent": false           
   }
 }
