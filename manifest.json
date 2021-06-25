@@ -21,6 +21,6 @@
    
   "background": {
     "script": ["js/startup.js"]
-    "persistent": false           
+    //"persistent": false           
   }
 }
