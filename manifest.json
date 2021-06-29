@@ -18,7 +18,7 @@
     {
       "js": ["content.js"],
       "css": ["content.css"],
-      "matches": ["https://*.com/*"]
+      "matches": ["https://*/*", "http://*/*"]
     }
   ]
 }
